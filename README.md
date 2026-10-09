@@ -6,6 +6,9 @@ The infrastructure is created with Terraform.
 
 ---
 
+<img width="2752" height="1536" alt="Project-2 architecture diagram_v2" src="https://github.com/user-attachments/assets/65a5a9f1-d00f-4cf3-96ab-65bdc68e1870" />
+
+
 ## 1. Project Overview
 
 The goal of this project is to show how to build an event-driven architecture on AWS:
